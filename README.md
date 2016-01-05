@@ -1,2 +1,2 @@
 # Planum
-Flat Icon Pack
+Planum is a free Flat Icon Pack.
